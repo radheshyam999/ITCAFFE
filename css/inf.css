@@ -8,3 +8,138 @@
   text-align: center;
 
 }
+.c{
+  padding-top: 10px;
+  color:red;
+  background-color:#F0FFFF;
+  text-align:center;
+  font-family: cursive;
+
+}
+.content-c  {
+
+  margin-top: -10px;
+  background-color:#F0FFFF;
+  /* text-align:center; */
+  font-family: monospace;
+  font-size: 18px;
+}
+.cpp{
+  /* padding-top: 10px; */
+  color:green;
+  background-color:#FFE4C4;
+  text-align:center;
+  font-family: cursive;
+
+}
+.content-cpp{
+  padding: 0px;
+  margin-top: -10px;
+  background-color:#FFE4C4;
+  /* text-align:center; */
+  font-family: monospace;
+  font-size: 16px;
+}
+.java{
+  color:#DAA520;
+  text-align:center;
+  background-color:#D3D3D3;
+  font-family: cursive;
+}
+.content-java{
+  margin-top: -10px;
+  background-color:#D3D3D3;
+  font-family: monospace;
+  font-size: 16px;
+  padding: 0px;
+}
+.python{
+
+  color:#4682B4;
+  background-color:#FFF5EE;
+  text-align:center;
+  font-family: cursive;
+
+}
+.content-python{
+  margin-top: -10px;
+  background-color:#FFF5EE;
+  font-family: monospace;
+  font-size: 16px;
+  padding: 0px;
+}
+.html{
+  color:#4B0082;
+  background-color: #DB7093;
+  text-align: center;
+  font-family: cursive;
+}
+.content-html{
+  margin-top: -10px;
+  background-color: #DB7093;
+  font-family: monospace;
+  font-size: 16px;
+}
+.css{
+  color: #DAA520;
+  background-color: #3CB371;
+  text-align: center;
+  font-family: cursive;
+}
+.content-css{
+  margin-top: -10px;
+  background-color: #3CB371;
+  font-family: monospace;
+  font-size: 16px;
+}
+.java-script{
+   text-align: center;
+   background-color: #E9967A;
+   font-family: cursive;
+}
+.content-java-script{
+  margin-top: -10px;
+  background-color: #E9967A;
+  font-family: monospace;
+  font-size: 16px;
+}
+.node{
+  text-align: center;
+  /* color: #F0FFFF; */
+  background-color: #F0FFFF;
+  font-family: cursive;
+
+}
+.content-node{
+  margin-top: -10px;
+  background-color: #F0FFFF;
+  font-family: monospace;
+  font-size: 16px;
+}
+.linux{
+  text-align: center;
+  font-family: cursive;
+  background-color: #7B68EE;
+
+}
+.windows{
+  text-align: center;
+  font-family: cursive;
+  background-color: #AFEEEE;
+}
+.git{
+  text-align: center;
+  font-family: serif;
+  background-color: #98FB98;
+}
+.vim{
+  text-align: center;
+  font-family: serif;
+  background-color: #DEB887;
+}
+.jupitor{
+
+  text-align: center;
+  font-family: serif;
+  background-color: #DEB887;
+}
